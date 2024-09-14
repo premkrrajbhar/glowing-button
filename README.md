@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-* You can check out the live demo of the project here: [Glowing Button]()
+* You can check out the live demo of the project here: [Glowing Button](https://premkrrajbhar.github.io/glowing-button/)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
